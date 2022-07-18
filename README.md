@@ -1,2 +1,1 @@
-# NGO
-Sprint Project
+# ngo
